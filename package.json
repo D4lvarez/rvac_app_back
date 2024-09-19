@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "engines": {
+    "node": ">=16"
+  },
   "name": "rvac_app_back",
   "version": "1.0.0",
   "description": "API for implementing RBAC on any relational database.",
@@ -14,6 +18,7 @@
   "author": "D4lvarez",
   "license": "GPL-3.0",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "sequelize": "^6.37.3",
     "sqlite3": "^5.1.7"
