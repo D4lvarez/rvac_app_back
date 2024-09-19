@@ -1,0 +1,14 @@
+{
+  "name": "rvac_app_back",
+  "version": "1.0.0",
+  "description": "API for implementing RBAC on any relational database.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rbac"
+  ],
+  "author": "D4lvarez",
+  "license": "GPL-3.0"
+}
