@@ -10,5 +10,10 @@
     "rbac"
   ],
   "author": "D4lvarez",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.21.0",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
 }
